@@ -1,4 +1,6 @@
-# volatility-aff4-docker
+# Volatility Docker image
+
+This Docker image is intended to run the AFF4 plugin.
 
 ## build
 
